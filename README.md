@@ -27,10 +27,12 @@
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/shubhampsinghdev-png/LeetCode/tree/master/0015-3sum) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/shubhampsinghdev-png/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/shubhampsinghdev-png/LeetCode/tree/master/0015-3sum) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/shubhampsinghdev-png/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 ## Binary Search
 |  |
@@ -39,5 +41,6 @@
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/shubhampsinghdev-png/LeetCode/tree/master/0015-3sum) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/shubhampsinghdev-png/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 <!---LeetCode Topics End-->
