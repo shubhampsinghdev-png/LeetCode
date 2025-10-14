@@ -73,4 +73,8 @@
 |  |
 | ------- |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/shubhampsinghdev-png/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/shubhampsinghdev-png/LeetCode/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
