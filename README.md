@@ -6,6 +6,7 @@
 | ------- |
 | [0043-multiply-strings](https://github.com/shubhampsinghdev-png/LeetCode/tree/master/0043-multiply-strings) |
 | [0062-unique-paths](https://github.com/shubhampsinghdev-png/LeetCode/tree/master/0062-unique-paths) |
+| [0070-climbing-stairs](https://github.com/shubhampsinghdev-png/LeetCode/tree/master/0070-climbing-stairs) |
 | [0263-ugly-number](https://github.com/shubhampsinghdev-png/LeetCode/tree/master/0263-ugly-number) |
 | [1013-fibonacci-number](https://github.com/shubhampsinghdev-png/LeetCode/tree/master/1013-fibonacci-number) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/shubhampsinghdev-png/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
@@ -59,11 +60,13 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/shubhampsinghdev-png/LeetCode/tree/master/0062-unique-paths) |
+| [0070-climbing-stairs](https://github.com/shubhampsinghdev-png/LeetCode/tree/master/0070-climbing-stairs) |
 | [0747-min-cost-climbing-stairs](https://github.com/shubhampsinghdev-png/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/shubhampsinghdev-png/LeetCode/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/shubhampsinghdev-png/LeetCode/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/shubhampsinghdev-png/LeetCode/tree/master/1013-fibonacci-number) |
 ## Prefix Sum
 |  |
