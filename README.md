@@ -16,6 +16,7 @@
 | ------- |
 | [0043-multiply-strings](https://github.com/shubhampsinghdev-png/LeetCode/tree/master/0043-multiply-strings) |
 | [0257-binary-tree-paths](https://github.com/shubhampsinghdev-png/LeetCode/tree/master/0257-binary-tree-paths) |
+| [0290-word-pattern](https://github.com/shubhampsinghdev-png/LeetCode/tree/master/0290-word-pattern) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/shubhampsinghdev-png/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/shubhampsinghdev-png/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/shubhampsinghdev-png/LeetCode/tree/master/2847-find-maximum-number-of-string-pairs) |
@@ -93,6 +94,7 @@
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/shubhampsinghdev-png/LeetCode/tree/master/0041-first-missing-positive) |
+| [0290-word-pattern](https://github.com/shubhampsinghdev-png/LeetCode/tree/master/0290-word-pattern) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/shubhampsinghdev-png/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/shubhampsinghdev-png/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/shubhampsinghdev-png/LeetCode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
