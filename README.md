@@ -40,6 +40,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/shubhampsinghdev-png/LeetCode/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/shubhampsinghdev-png/LeetCode/tree/master/0015-3sum) |
 | [0041-first-missing-positive](https://github.com/shubhampsinghdev-png/LeetCode/tree/master/0041-first-missing-positive) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/shubhampsinghdev-png/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -93,6 +94,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/shubhampsinghdev-png/LeetCode/tree/master/0001-two-sum) |
 | [0041-first-missing-positive](https://github.com/shubhampsinghdev-png/LeetCode/tree/master/0041-first-missing-positive) |
 | [0290-word-pattern](https://github.com/shubhampsinghdev-png/LeetCode/tree/master/0290-word-pattern) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/shubhampsinghdev-png/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
