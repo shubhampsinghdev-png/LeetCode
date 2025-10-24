@@ -53,6 +53,7 @@
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/shubhampsinghdev-png/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/shubhampsinghdev-png/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/shubhampsinghdev-png/LeetCode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
+| [2675-find-the-width-of-columns-of-a-grid](https://github.com/shubhampsinghdev-png/LeetCode/tree/master/2675-find-the-width-of-columns-of-a-grid) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/shubhampsinghdev-png/LeetCode/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/shubhampsinghdev-png/LeetCode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/shubhampsinghdev-png/LeetCode/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
@@ -179,4 +180,8 @@
 |  |
 | ------- |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/shubhampsinghdev-png/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
+## Matrix
+|  |
+| ------- |
+| [2675-find-the-width-of-columns-of-a-grid](https://github.com/shubhampsinghdev-png/LeetCode/tree/master/2675-find-the-width-of-columns-of-a-grid) |
 <!---LeetCode Topics End-->
