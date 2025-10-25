@@ -9,6 +9,7 @@
 | [0070-climbing-stairs](https://github.com/shubhampsinghdev-png/LeetCode/tree/master/0070-climbing-stairs) |
 | [0263-ugly-number](https://github.com/shubhampsinghdev-png/LeetCode/tree/master/0263-ugly-number) |
 | [1013-fibonacci-number](https://github.com/shubhampsinghdev-png/LeetCode/tree/master/1013-fibonacci-number) |
+| [1817-calculate-money-in-leetcode-bank](https://github.com/shubhampsinghdev-png/LeetCode/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/shubhampsinghdev-png/LeetCode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/shubhampsinghdev-png/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/shubhampsinghdev-png/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
