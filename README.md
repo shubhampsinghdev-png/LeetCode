@@ -132,6 +132,7 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/shubhampsinghdev-png/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/shubhampsinghdev-png/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 ## Tree
 |  |
 | ------- |
@@ -144,6 +145,7 @@
 | [0110-balanced-binary-tree](https://github.com/shubhampsinghdev-png/LeetCode/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/shubhampsinghdev-png/LeetCode/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/shubhampsinghdev-png/LeetCode/tree/master/0113-path-sum-ii) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/shubhampsinghdev-png/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0222-count-complete-tree-nodes](https://github.com/shubhampsinghdev-png/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/shubhampsinghdev-png/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/shubhampsinghdev-png/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -158,6 +160,7 @@
 | [0110-balanced-binary-tree](https://github.com/shubhampsinghdev-png/LeetCode/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/shubhampsinghdev-png/LeetCode/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/shubhampsinghdev-png/LeetCode/tree/master/0113-path-sum-ii) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/shubhampsinghdev-png/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0226-invert-binary-tree](https://github.com/shubhampsinghdev-png/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/shubhampsinghdev-png/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/shubhampsinghdev-png/LeetCode/tree/master/0257-binary-tree-paths) |
@@ -174,6 +177,7 @@
 | [0110-balanced-binary-tree](https://github.com/shubhampsinghdev-png/LeetCode/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/shubhampsinghdev-png/LeetCode/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/shubhampsinghdev-png/LeetCode/tree/master/0113-path-sum-ii) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/shubhampsinghdev-png/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0222-count-complete-tree-nodes](https://github.com/shubhampsinghdev-png/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/shubhampsinghdev-png/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/shubhampsinghdev-png/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -205,4 +209,8 @@
 |  |
 | ------- |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/shubhampsinghdev-png/LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+## Linked List
+|  |
+| ------- |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/shubhampsinghdev-png/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 <!---LeetCode Topics End-->
