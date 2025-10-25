@@ -17,6 +17,7 @@
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/shubhampsinghdev-png/LeetCode/tree/master/0043-multiply-strings) |
+| [0049-group-anagrams](https://github.com/shubhampsinghdev-png/LeetCode/tree/master/0049-group-anagrams) |
 | [0257-binary-tree-paths](https://github.com/shubhampsinghdev-png/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0290-word-pattern](https://github.com/shubhampsinghdev-png/LeetCode/tree/master/0290-word-pattern) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/shubhampsinghdev-png/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
@@ -47,6 +48,7 @@
 | [0001-two-sum](https://github.com/shubhampsinghdev-png/LeetCode/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/shubhampsinghdev-png/LeetCode/tree/master/0015-3sum) |
 | [0041-first-missing-positive](https://github.com/shubhampsinghdev-png/LeetCode/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/shubhampsinghdev-png/LeetCode/tree/master/0049-group-anagrams) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/shubhampsinghdev-png/LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/shubhampsinghdev-png/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/shubhampsinghdev-png/LeetCode/tree/master/0455-assign-cookies) |
@@ -74,6 +76,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/shubhampsinghdev-png/LeetCode/tree/master/0015-3sum) |
+| [0049-group-anagrams](https://github.com/shubhampsinghdev-png/LeetCode/tree/master/0049-group-anagrams) |
 | [0455-assign-cookies](https://github.com/shubhampsinghdev-png/LeetCode/tree/master/0455-assign-cookies) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/shubhampsinghdev-png/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/shubhampsinghdev-png/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
@@ -102,6 +105,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/shubhampsinghdev-png/LeetCode/tree/master/0001-two-sum) |
 | [0041-first-missing-positive](https://github.com/shubhampsinghdev-png/LeetCode/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/shubhampsinghdev-png/LeetCode/tree/master/0049-group-anagrams) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/shubhampsinghdev-png/LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0290-word-pattern](https://github.com/shubhampsinghdev-png/LeetCode/tree/master/0290-word-pattern) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/shubhampsinghdev-png/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
