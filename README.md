@@ -50,6 +50,7 @@
 | [0015-3sum](https://github.com/shubhampsinghdev-png/LeetCode/tree/master/0015-3sum) |
 | [0041-first-missing-positive](https://github.com/shubhampsinghdev-png/LeetCode/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/shubhampsinghdev-png/LeetCode/tree/master/0049-group-anagrams) |
+| [0074-search-a-2d-matrix](https://github.com/shubhampsinghdev-png/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/shubhampsinghdev-png/LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/shubhampsinghdev-png/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/shubhampsinghdev-png/LeetCode/tree/master/0455-assign-cookies) |
@@ -74,6 +75,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/shubhampsinghdev-png/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0222-count-complete-tree-nodes](https://github.com/shubhampsinghdev-png/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/shubhampsinghdev-png/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 ## Sorting
@@ -213,6 +215,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/shubhampsinghdev-png/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [2675-find-the-width-of-columns-of-a-grid](https://github.com/shubhampsinghdev-png/LeetCode/tree/master/2675-find-the-width-of-columns-of-a-grid) |
 ## Divide and Conquer
 |  |
