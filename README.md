@@ -18,6 +18,7 @@
 | ------- |
 | [0043-multiply-strings](https://github.com/shubhampsinghdev-png/LeetCode/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/shubhampsinghdev-png/LeetCode/tree/master/0049-group-anagrams) |
+| [0125-valid-palindrome](https://github.com/shubhampsinghdev-png/LeetCode/tree/master/0125-valid-palindrome) |
 | [0257-binary-tree-paths](https://github.com/shubhampsinghdev-png/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0290-word-pattern](https://github.com/shubhampsinghdev-png/LeetCode/tree/master/0290-word-pattern) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/shubhampsinghdev-png/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
@@ -66,6 +67,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/shubhampsinghdev-png/LeetCode/tree/master/0015-3sum) |
+| [0125-valid-palindrome](https://github.com/shubhampsinghdev-png/LeetCode/tree/master/0125-valid-palindrome) |
 | [0455-assign-cookies](https://github.com/shubhampsinghdev-png/LeetCode/tree/master/0455-assign-cookies) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/shubhampsinghdev-png/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 ## Binary Search
