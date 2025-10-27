@@ -17,6 +17,7 @@
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/shubhampsinghdev-png/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0043-multiply-strings](https://github.com/shubhampsinghdev-png/LeetCode/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/shubhampsinghdev-png/LeetCode/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/shubhampsinghdev-png/LeetCode/tree/master/0125-valid-palindrome) |
@@ -71,6 +72,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/shubhampsinghdev-png/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/shubhampsinghdev-png/LeetCode/tree/master/0015-3sum) |
 | [0125-valid-palindrome](https://github.com/shubhampsinghdev-png/LeetCode/tree/master/0125-valid-palindrome) |
 | [0455-assign-cookies](https://github.com/shubhampsinghdev-png/LeetCode/tree/master/0455-assign-cookies) |
@@ -93,6 +95,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/shubhampsinghdev-png/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0062-unique-paths](https://github.com/shubhampsinghdev-png/LeetCode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/shubhampsinghdev-png/LeetCode/tree/master/0070-climbing-stairs) |
 | [0747-min-cost-climbing-stairs](https://github.com/shubhampsinghdev-png/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
