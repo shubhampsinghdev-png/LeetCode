@@ -16,6 +16,7 @@
 | [2812-find-the-maximum-achievable-number](https://github.com/shubhampsinghdev-png/LeetCode/tree/master/2812-find-the-maximum-achievable-number) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/shubhampsinghdev-png/LeetCode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/shubhampsinghdev-png/LeetCode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/shubhampsinghdev-png/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/shubhampsinghdev-png/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/shubhampsinghdev-png/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## String
@@ -79,6 +80,7 @@
 | [2675-find-the-width-of-columns-of-a-grid](https://github.com/shubhampsinghdev-png/LeetCode/tree/master/2675-find-the-width-of-columns-of-a-grid) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/shubhampsinghdev-png/LeetCode/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/shubhampsinghdev-png/LeetCode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/shubhampsinghdev-png/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/shubhampsinghdev-png/LeetCode/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3778-transform-array-by-parity](https://github.com/shubhampsinghdev-png/LeetCode/tree/master/3778-transform-array-by-parity) |
 ## Two Pointers
@@ -145,6 +147,7 @@
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/shubhampsinghdev-png/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/shubhampsinghdev-png/LeetCode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/shubhampsinghdev-png/LeetCode/tree/master/2847-find-maximum-number-of-string-pairs) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/shubhampsinghdev-png/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Database
 |  |
 | ------- |
