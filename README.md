@@ -30,6 +30,7 @@
 | [0257-binary-tree-paths](https://github.com/shubhampsinghdev-png/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0290-word-pattern](https://github.com/shubhampsinghdev-png/LeetCode/tree/master/0290-word-pattern) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/shubhampsinghdev-png/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/shubhampsinghdev-png/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/shubhampsinghdev-png/LeetCode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/shubhampsinghdev-png/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/shubhampsinghdev-png/LeetCode/tree/master/2244-number-of-laser-beams-in-a-bank) |
@@ -73,6 +74,7 @@
 | [0747-min-cost-climbing-stairs](https://github.com/shubhampsinghdev-png/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 | [0966-binary-subarrays-with-sum](https://github.com/shubhampsinghdev-png/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/shubhampsinghdev-png/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/shubhampsinghdev-png/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2048-build-array-from-permutation](https://github.com/shubhampsinghdev-png/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/shubhampsinghdev-png/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/shubhampsinghdev-png/LeetCode/tree/master/2244-number-of-laser-beams-in-a-bank) |
@@ -121,6 +123,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/shubhampsinghdev-png/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0747-min-cost-climbing-stairs](https://github.com/shubhampsinghdev-png/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/shubhampsinghdev-png/LeetCode/tree/master/1013-fibonacci-number) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/shubhampsinghdev-png/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 ## Memoization
 |  |
 | ------- |
@@ -137,6 +140,7 @@
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/shubhampsinghdev-png/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0455-assign-cookies](https://github.com/shubhampsinghdev-png/LeetCode/tree/master/0455-assign-cookies) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/shubhampsinghdev-png/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 ## Hash Table
 |  |
 | ------- |
