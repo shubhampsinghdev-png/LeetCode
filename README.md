@@ -37,6 +37,7 @@
 | [2847-find-maximum-number-of-string-pairs](https://github.com/shubhampsinghdev-png/LeetCode/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [3379-score-of-a-string](https://github.com/shubhampsinghdev-png/LeetCode/tree/master/3379-score-of-a-string) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/shubhampsinghdev-png/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
+| [3811-reverse-degree-of-a-string](https://github.com/shubhampsinghdev-png/LeetCode/tree/master/3811-reverse-degree-of-a-string) |
 ## Simulation
 |  |
 | ------- |
@@ -47,6 +48,7 @@
 | [2847-find-maximum-number-of-string-pairs](https://github.com/shubhampsinghdev-png/LeetCode/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/shubhampsinghdev-png/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/shubhampsinghdev-png/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
+| [3811-reverse-degree-of-a-string](https://github.com/shubhampsinghdev-png/LeetCode/tree/master/3811-reverse-degree-of-a-string) |
 ## Bit Manipulation
 |  |
 | ------- |
