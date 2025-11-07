@@ -45,6 +45,7 @@
 | [2048-build-array-from-permutation](https://github.com/shubhampsinghdev-png/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/shubhampsinghdev-png/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/shubhampsinghdev-png/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2299-merge-nodes-in-between-zeros](https://github.com/shubhampsinghdev-png/LeetCode/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/shubhampsinghdev-png/LeetCode/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/shubhampsinghdev-png/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/shubhampsinghdev-png/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
@@ -270,6 +271,7 @@
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/shubhampsinghdev-png/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [2299-merge-nodes-in-between-zeros](https://github.com/shubhampsinghdev-png/LeetCode/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/shubhampsinghdev-png/LeetCode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/shubhampsinghdev-png/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Sliding Window
