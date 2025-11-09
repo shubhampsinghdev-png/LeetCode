@@ -11,6 +11,7 @@
 | [1013-fibonacci-number](https://github.com/shubhampsinghdev-png/LeetCode/tree/master/1013-fibonacci-number) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/shubhampsinghdev-png/LeetCode/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/shubhampsinghdev-png/LeetCode/tree/master/2244-number-of-laser-beams-in-a-bank) |
+| [2288-count-operations-to-obtain-zero](https://github.com/shubhampsinghdev-png/LeetCode/tree/master/2288-count-operations-to-obtain-zero) |
 | [2383-add-two-integers](https://github.com/shubhampsinghdev-png/LeetCode/tree/master/2383-add-two-integers) |
 | [2481-strictly-palindromic-number](https://github.com/shubhampsinghdev-png/LeetCode/tree/master/2481-strictly-palindromic-number) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/shubhampsinghdev-png/LeetCode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
@@ -45,6 +46,7 @@
 | [2048-build-array-from-permutation](https://github.com/shubhampsinghdev-png/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/shubhampsinghdev-png/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/shubhampsinghdev-png/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2288-count-operations-to-obtain-zero](https://github.com/shubhampsinghdev-png/LeetCode/tree/master/2288-count-operations-to-obtain-zero) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/shubhampsinghdev-png/LeetCode/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/shubhampsinghdev-png/LeetCode/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/shubhampsinghdev-png/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
