@@ -98,6 +98,7 @@
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/shubhampsinghdev-png/LeetCode/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3778-transform-array-by-parity](https://github.com/shubhampsinghdev-png/LeetCode/tree/master/3778-transform-array-by-parity) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/shubhampsinghdev-png/LeetCode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
+| [4008-restore-finishing-order](https://github.com/shubhampsinghdev-png/LeetCode/tree/master/4008-restore-finishing-order) |
 ## Two Pointers
 |  |
 | ------- |
@@ -171,6 +172,7 @@
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/shubhampsinghdev-png/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/shubhampsinghdev-png/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/shubhampsinghdev-png/LeetCode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
+| [4008-restore-finishing-order](https://github.com/shubhampsinghdev-png/LeetCode/tree/master/4008-restore-finishing-order) |
 ## Database
 |  |
 | ------- |
