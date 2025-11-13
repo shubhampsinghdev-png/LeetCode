@@ -57,6 +57,7 @@
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/shubhampsinghdev-png/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/shubhampsinghdev-png/LeetCode/tree/master/2519-find-the-original-array-of-prefix-xor) |
+| [3579-maximum-possible-number-by-binary-concatenation](https://github.com/shubhampsinghdev-png/LeetCode/tree/master/3579-maximum-possible-number-by-binary-concatenation) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/shubhampsinghdev-png/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Recursion
 |  |
@@ -94,6 +95,7 @@
 | [2847-find-maximum-number-of-string-pairs](https://github.com/shubhampsinghdev-png/LeetCode/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/shubhampsinghdev-png/LeetCode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/shubhampsinghdev-png/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3579-maximum-possible-number-by-binary-concatenation](https://github.com/shubhampsinghdev-png/LeetCode/tree/master/3579-maximum-possible-number-by-binary-concatenation) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/shubhampsinghdev-png/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/shubhampsinghdev-png/LeetCode/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3778-transform-array-by-parity](https://github.com/shubhampsinghdev-png/LeetCode/tree/master/3778-transform-array-by-parity) |
@@ -298,4 +300,8 @@
 |  |
 | ------- |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/shubhampsinghdev-png/LeetCode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
+## Enumeration
+|  |
+| ------- |
+| [3579-maximum-possible-number-by-binary-concatenation](https://github.com/shubhampsinghdev-png/LeetCode/tree/master/3579-maximum-possible-number-by-binary-concatenation) |
 <!---LeetCode Topics End-->
