@@ -223,6 +223,7 @@
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/shubhampsinghdev-png/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/shubhampsinghdev-png/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/shubhampsinghdev-png/LeetCode/tree/master/0543-diameter-of-binary-tree) |
+| [1114-binary-search-tree-to-greater-sum-tree](https://github.com/shubhampsinghdev-png/LeetCode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -237,6 +238,7 @@
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/shubhampsinghdev-png/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/shubhampsinghdev-png/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/shubhampsinghdev-png/LeetCode/tree/master/0543-diameter-of-binary-tree) |
+| [1114-binary-search-tree-to-greater-sum-tree](https://github.com/shubhampsinghdev-png/LeetCode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -255,6 +257,7 @@
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/shubhampsinghdev-png/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/shubhampsinghdev-png/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/shubhampsinghdev-png/LeetCode/tree/master/0543-diameter-of-binary-tree) |
+| [1114-binary-search-tree-to-greater-sum-tree](https://github.com/shubhampsinghdev-png/LeetCode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -308,4 +311,8 @@
 |  |
 | ------- |
 | [3579-maximum-possible-number-by-binary-concatenation](https://github.com/shubhampsinghdev-png/LeetCode/tree/master/3579-maximum-possible-number-by-binary-concatenation) |
+## Binary Search Tree
+|  |
+| ------- |
+| [1114-binary-search-tree-to-greater-sum-tree](https://github.com/shubhampsinghdev-png/LeetCode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 <!---LeetCode Topics End-->
