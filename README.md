@@ -81,6 +81,7 @@
 | [0747-min-cost-climbing-stairs](https://github.com/shubhampsinghdev-png/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 | [0966-binary-subarrays-with-sum](https://github.com/shubhampsinghdev-png/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/shubhampsinghdev-png/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/shubhampsinghdev-png/LeetCode/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1580-shuffle-the-array](https://github.com/shubhampsinghdev-png/LeetCode/tree/master/1580-shuffle-the-array) |
 | [1603-running-sum-of-1d-array](https://github.com/shubhampsinghdev-png/LeetCode/tree/master/1603-running-sum-of-1d-array) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/shubhampsinghdev-png/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
