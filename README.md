@@ -78,6 +78,7 @@
 | [0455-assign-cookies](https://github.com/shubhampsinghdev-png/LeetCode/tree/master/0455-assign-cookies) |
 | [0560-subarray-sum-equals-k](https://github.com/shubhampsinghdev-png/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/shubhampsinghdev-png/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
+| [0717-1-bit-and-2-bit-characters](https://github.com/shubhampsinghdev-png/LeetCode/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0747-min-cost-climbing-stairs](https://github.com/shubhampsinghdev-png/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 | [0966-binary-subarrays-with-sum](https://github.com/shubhampsinghdev-png/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/shubhampsinghdev-png/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
