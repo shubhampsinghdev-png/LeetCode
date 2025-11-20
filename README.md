@@ -14,6 +14,7 @@
 | [2288-count-operations-to-obtain-zero](https://github.com/shubhampsinghdev-png/LeetCode/tree/master/2288-count-operations-to-obtain-zero) |
 | [2383-add-two-integers](https://github.com/shubhampsinghdev-png/LeetCode/tree/master/2383-add-two-integers) |
 | [2481-strictly-palindromic-number](https://github.com/shubhampsinghdev-png/LeetCode/tree/master/2481-strictly-palindromic-number) |
+| [2491-smallest-even-multiple](https://github.com/shubhampsinghdev-png/LeetCode/tree/master/2491-smallest-even-multiple) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/shubhampsinghdev-png/LeetCode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2812-find-the-maximum-achievable-number](https://github.com/shubhampsinghdev-png/LeetCode/tree/master/2812-find-the-maximum-achievable-number) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/shubhampsinghdev-png/LeetCode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
@@ -283,6 +284,7 @@
 ## Number Theory
 |  |
 | ------- |
+| [2491-smallest-even-multiple](https://github.com/shubhampsinghdev-png/LeetCode/tree/master/2491-smallest-even-multiple) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/shubhampsinghdev-png/LeetCode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/shubhampsinghdev-png/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Matrix
