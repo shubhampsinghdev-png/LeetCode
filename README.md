@@ -58,6 +58,7 @@
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/shubhampsinghdev-png/LeetCode/tree/master/0222-count-complete-tree-nodes) |
+| [1018-binary-prefix-divisible-by-5](https://github.com/shubhampsinghdev-png/LeetCode/tree/master/1018-binary-prefix-divisible-by-5) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/shubhampsinghdev-png/LeetCode/tree/master/2519-find-the-original-array-of-prefix-xor) |
 | [3579-maximum-possible-number-by-binary-concatenation](https://github.com/shubhampsinghdev-png/LeetCode/tree/master/3579-maximum-possible-number-by-binary-concatenation) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/shubhampsinghdev-png/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
@@ -83,6 +84,7 @@
 | [0717-1-bit-and-2-bit-characters](https://github.com/shubhampsinghdev-png/LeetCode/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0747-min-cost-climbing-stairs](https://github.com/shubhampsinghdev-png/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 | [0966-binary-subarrays-with-sum](https://github.com/shubhampsinghdev-png/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
+| [1018-binary-prefix-divisible-by-5](https://github.com/shubhampsinghdev-png/LeetCode/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/shubhampsinghdev-png/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/shubhampsinghdev-png/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/shubhampsinghdev-png/LeetCode/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
