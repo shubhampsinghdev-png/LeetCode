@@ -37,6 +37,7 @@
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/shubhampsinghdev-png/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/shubhampsinghdev-png/LeetCode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/shubhampsinghdev-png/LeetCode/tree/master/2847-find-maximum-number-of-string-pairs) |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/shubhampsinghdev-png/LeetCode/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 | [3379-score-of-a-string](https://github.com/shubhampsinghdev-png/LeetCode/tree/master/3379-score-of-a-string) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/shubhampsinghdev-png/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3811-reverse-degree-of-a-string](https://github.com/shubhampsinghdev-png/LeetCode/tree/master/3811-reverse-degree-of-a-string) |
@@ -60,6 +61,7 @@
 | [0222-count-complete-tree-nodes](https://github.com/shubhampsinghdev-png/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/shubhampsinghdev-png/LeetCode/tree/master/1018-binary-prefix-divisible-by-5) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/shubhampsinghdev-png/LeetCode/tree/master/2519-find-the-original-array-of-prefix-xor) |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/shubhampsinghdev-png/LeetCode/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 | [3579-maximum-possible-number-by-binary-concatenation](https://github.com/shubhampsinghdev-png/LeetCode/tree/master/3579-maximum-possible-number-by-binary-concatenation) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/shubhampsinghdev-png/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Recursion
@@ -292,6 +294,7 @@
 | ------- |
 | [0113-path-sum-ii](https://github.com/shubhampsinghdev-png/LeetCode/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/shubhampsinghdev-png/LeetCode/tree/master/0257-binary-tree-paths) |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/shubhampsinghdev-png/LeetCode/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Number Theory
 |  |
 | ------- |
