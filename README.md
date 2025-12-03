@@ -31,6 +31,7 @@
 | [0125-valid-palindrome](https://github.com/shubhampsinghdev-png/LeetCode/tree/master/0125-valid-palindrome) |
 | [0257-binary-tree-paths](https://github.com/shubhampsinghdev-png/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0290-word-pattern](https://github.com/shubhampsinghdev-png/LeetCode/tree/master/0290-word-pattern) |
+| [1221-split-a-string-in-balanced-strings](https://github.com/shubhampsinghdev-png/LeetCode/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/shubhampsinghdev-png/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/shubhampsinghdev-png/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/shubhampsinghdev-png/LeetCode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
@@ -176,6 +177,7 @@
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/shubhampsinghdev-png/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0455-assign-cookies](https://github.com/shubhampsinghdev-png/LeetCode/tree/master/0455-assign-cookies) |
+| [1221-split-a-string-in-balanced-strings](https://github.com/shubhampsinghdev-png/LeetCode/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/shubhampsinghdev-png/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/shubhampsinghdev-png/LeetCode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Hash Table
@@ -218,6 +220,7 @@
 |  |
 | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/shubhampsinghdev-png/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
+| [1221-split-a-string-in-balanced-strings](https://github.com/shubhampsinghdev-png/LeetCode/tree/master/1221-split-a-string-in-balanced-strings) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/shubhampsinghdev-png/LeetCode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [3778-transform-array-by-parity](https://github.com/shubhampsinghdev-png/LeetCode/tree/master/3778-transform-array-by-parity) |
 ## Stack
