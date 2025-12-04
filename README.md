@@ -36,6 +36,7 @@
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/shubhampsinghdev-png/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/shubhampsinghdev-png/LeetCode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/shubhampsinghdev-png/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2211-count-collisions-on-a-road](https://github.com/shubhampsinghdev-png/LeetCode/tree/master/2211-count-collisions-on-a-road) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/shubhampsinghdev-png/LeetCode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/shubhampsinghdev-png/LeetCode/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/shubhampsinghdev-png/LeetCode/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
@@ -48,6 +49,7 @@
 | [0043-multiply-strings](https://github.com/shubhampsinghdev-png/LeetCode/tree/master/0043-multiply-strings) |
 | [2048-build-array-from-permutation](https://github.com/shubhampsinghdev-png/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/shubhampsinghdev-png/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2211-count-collisions-on-a-road](https://github.com/shubhampsinghdev-png/LeetCode/tree/master/2211-count-collisions-on-a-road) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/shubhampsinghdev-png/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/shubhampsinghdev-png/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2288-count-operations-to-obtain-zero](https://github.com/shubhampsinghdev-png/LeetCode/tree/master/2288-count-operations-to-obtain-zero) |
@@ -229,6 +231,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/shubhampsinghdev-png/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/shubhampsinghdev-png/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/shubhampsinghdev-png/LeetCode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
+| [2211-count-collisions-on-a-road](https://github.com/shubhampsinghdev-png/LeetCode/tree/master/2211-count-collisions-on-a-road) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/shubhampsinghdev-png/LeetCode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Tree
 |  |
