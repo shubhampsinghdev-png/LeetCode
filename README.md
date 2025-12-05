@@ -19,6 +19,7 @@
 | [2812-find-the-maximum-achievable-number](https://github.com/shubhampsinghdev-png/LeetCode/tree/master/2812-find-the-maximum-achievable-number) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/shubhampsinghdev-png/LeetCode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/shubhampsinghdev-png/LeetCode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/shubhampsinghdev-png/LeetCode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/shubhampsinghdev-png/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/shubhampsinghdev-png/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/shubhampsinghdev-png/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
@@ -112,6 +113,7 @@
 | [2847-find-maximum-number-of-string-pairs](https://github.com/shubhampsinghdev-png/LeetCode/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/shubhampsinghdev-png/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/shubhampsinghdev-png/LeetCode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/shubhampsinghdev-png/LeetCode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/shubhampsinghdev-png/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3579-maximum-possible-number-by-binary-concatenation](https://github.com/shubhampsinghdev-png/LeetCode/tree/master/3579-maximum-possible-number-by-binary-concatenation) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/shubhampsinghdev-png/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -174,6 +176,7 @@
 | [1603-running-sum-of-1d-array](https://github.com/shubhampsinghdev-png/LeetCode/tree/master/1603-running-sum-of-1d-array) |
 | [2714-left-and-right-sum-differences](https://github.com/shubhampsinghdev-png/LeetCode/tree/master/2714-left-and-right-sum-differences) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/shubhampsinghdev-png/LeetCode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/shubhampsinghdev-png/LeetCode/tree/master/3432-count-partitions-with-even-sum-difference) |
 ## Greedy
 |  |
 | ------- |
