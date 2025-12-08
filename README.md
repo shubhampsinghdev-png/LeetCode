@@ -10,6 +10,7 @@
 | [0263-ugly-number](https://github.com/shubhampsinghdev-png/LeetCode/tree/master/0263-ugly-number) |
 | [1013-fibonacci-number](https://github.com/shubhampsinghdev-png/LeetCode/tree/master/1013-fibonacci-number) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/shubhampsinghdev-png/LeetCode/tree/master/1817-calculate-money-in-leetcode-bank) |
+| [1925-count-square-sum-triples](https://github.com/shubhampsinghdev-png/LeetCode/tree/master/1925-count-square-sum-triples) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/shubhampsinghdev-png/LeetCode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2288-count-operations-to-obtain-zero](https://github.com/shubhampsinghdev-png/LeetCode/tree/master/2288-count-operations-to-obtain-zero) |
 | [2383-add-two-integers](https://github.com/shubhampsinghdev-png/LeetCode/tree/master/2383-add-two-integers) |
@@ -347,6 +348,7 @@
 ## Enumeration
 |  |
 | ------- |
+| [1925-count-square-sum-triples](https://github.com/shubhampsinghdev-png/LeetCode/tree/master/1925-count-square-sum-triples) |
 | [3579-maximum-possible-number-by-binary-concatenation](https://github.com/shubhampsinghdev-png/LeetCode/tree/master/3579-maximum-possible-number-by-binary-concatenation) |
 ## Binary Search Tree
 |  |
