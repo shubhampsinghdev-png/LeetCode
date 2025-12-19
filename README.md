@@ -9,6 +9,7 @@
 | [0070-climbing-stairs](https://github.com/shubhampsinghdev-png/LeetCode/tree/master/0070-climbing-stairs) |
 | [0263-ugly-number](https://github.com/shubhampsinghdev-png/LeetCode/tree/master/0263-ugly-number) |
 | [1013-fibonacci-number](https://github.com/shubhampsinghdev-png/LeetCode/tree/master/1013-fibonacci-number) |
+| [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/shubhampsinghdev-png/LeetCode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/shubhampsinghdev-png/LeetCode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/shubhampsinghdev-png/LeetCode/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [1925-count-square-sum-triples](https://github.com/shubhampsinghdev-png/LeetCode/tree/master/1925-count-square-sum-triples) |
