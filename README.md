@@ -120,6 +120,7 @@
 | [2714-left-and-right-sum-differences](https://github.com/shubhampsinghdev-png/LeetCode/tree/master/2714-left-and-right-sum-differences) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/shubhampsinghdev-png/LeetCode/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/shubhampsinghdev-png/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
+| [3075-maximize-happiness-of-selected-children](https://github.com/shubhampsinghdev-png/LeetCode/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/shubhampsinghdev-png/LeetCode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/shubhampsinghdev-png/LeetCode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3433-count-mentions-per-user](https://github.com/shubhampsinghdev-png/LeetCode/tree/master/3433-count-mentions-per-user) |
@@ -160,6 +161,7 @@
 | [2274-keep-multiplying-found-values-by-two](https://github.com/shubhampsinghdev-png/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/shubhampsinghdev-png/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/shubhampsinghdev-png/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
+| [3075-maximize-happiness-of-selected-children](https://github.com/shubhampsinghdev-png/LeetCode/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3433-count-mentions-per-user](https://github.com/shubhampsinghdev-png/LeetCode/tree/master/3433-count-mentions-per-user) |
 | [3778-transform-array-by-parity](https://github.com/shubhampsinghdev-png/LeetCode/tree/master/3778-transform-array-by-parity) |
 ## Dynamic Programming
@@ -194,6 +196,7 @@
 | [0455-assign-cookies](https://github.com/shubhampsinghdev-png/LeetCode/tree/master/0455-assign-cookies) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/shubhampsinghdev-png/LeetCode/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/shubhampsinghdev-png/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [3075-maximize-happiness-of-selected-children](https://github.com/shubhampsinghdev-png/LeetCode/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/shubhampsinghdev-png/LeetCode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Hash Table
 |  |
