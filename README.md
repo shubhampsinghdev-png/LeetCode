@@ -98,6 +98,7 @@
 | [0594-longest-harmonious-subsequence](https://github.com/shubhampsinghdev-png/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/shubhampsinghdev-png/LeetCode/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0747-min-cost-climbing-stairs](https://github.com/shubhampsinghdev-png/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/shubhampsinghdev-png/LeetCode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0966-binary-subarrays-with-sum](https://github.com/shubhampsinghdev-png/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/shubhampsinghdev-png/LeetCode/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/shubhampsinghdev-png/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
@@ -209,6 +210,7 @@
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/shubhampsinghdev-png/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/shubhampsinghdev-png/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/shubhampsinghdev-png/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/shubhampsinghdev-png/LeetCode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0966-binary-subarrays-with-sum](https://github.com/shubhampsinghdev-png/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/shubhampsinghdev-png/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/shubhampsinghdev-png/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
