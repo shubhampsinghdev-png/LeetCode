@@ -88,6 +88,7 @@
 | [0015-3sum](https://github.com/shubhampsinghdev-png/LeetCode/tree/master/0015-3sum) |
 | [0039-combination-sum](https://github.com/shubhampsinghdev-png/LeetCode/tree/master/0039-combination-sum) |
 | [0041-first-missing-positive](https://github.com/shubhampsinghdev-png/LeetCode/tree/master/0041-first-missing-positive) |
+| [0045-jump-game-ii](https://github.com/shubhampsinghdev-png/LeetCode/tree/master/0045-jump-game-ii) |
 | [0049-group-anagrams](https://github.com/shubhampsinghdev-png/LeetCode/tree/master/0049-group-anagrams) |
 | [0074-search-a-2d-matrix](https://github.com/shubhampsinghdev-png/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/shubhampsinghdev-png/LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -169,6 +170,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/shubhampsinghdev-png/LeetCode/tree/master/0005-longest-palindromic-substring) |
+| [0045-jump-game-ii](https://github.com/shubhampsinghdev-png/LeetCode/tree/master/0045-jump-game-ii) |
 | [0062-unique-paths](https://github.com/shubhampsinghdev-png/LeetCode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/shubhampsinghdev-png/LeetCode/tree/master/0070-climbing-stairs) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/shubhampsinghdev-png/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -193,6 +195,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/shubhampsinghdev-png/LeetCode/tree/master/0045-jump-game-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/shubhampsinghdev-png/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0455-assign-cookies](https://github.com/shubhampsinghdev-png/LeetCode/tree/master/0455-assign-cookies) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/shubhampsinghdev-png/LeetCode/tree/master/1221-split-a-string-in-balanced-strings) |
